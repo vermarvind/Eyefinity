@@ -1,5 +1,5 @@
 {
-  "ameliaUrl": "https://eyefinity.dev.amelia.com/Amelia/ui/test_buttons/1/chat/login?as=internal",
-  "chatUrl": "https://eyefinity.dev.amelia.com/Amelia/ui/test_buttons/1/chat/login?as=internal",
+  "ameliaUrl": "https://eyefinity.dev.amelia.com/Amelia/ui/test_buttons/chat/login?as=internal",
+  "chatUrl": "https://eyefinity.dev.amelia.com/Amelia/ui/test_buttons/chat/login?as=internal",
   "clientUrl": "https://www.eyefinity.com/"
 }
