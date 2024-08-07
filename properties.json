@@ -1,5 +1,5 @@
 {
-  "ameliaUrl": "https://eyefinitychat.uat.amelia.com/Amelia/ui/test_buttons/chat?domainCode=eyefinitychatuat",
-  "chatUrl": "https://eyefinitychat.uat.amelia.com/Amelia/ui/test_buttons/chat?domainCode=eyefinitychatuat",
+  "ameliaUrl": "https://eyefinitychat.uat.amelia.com/Amelia/ui/test_buttons/chat",
+  "chatUrl": "https://eyefinitychat.uat.amelia.com/Amelia/ui/test_buttons/chat",
   "clientUrl": "https://www.eyefinity.com/"
 }
